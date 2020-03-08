@@ -10,4 +10,10 @@ Ideal para área de funcionários, nossa equipe ou our team.
 
 ### Screenshots
 
-![Perfil](https://github.com/jeffersonvidal/modelo-site-portfolio/blob/master/thumbs/perfil.png?raw=true)
+![Demonstration](https://github.com/jeffersonvidal/profile-card/blob/master/screenShots/demo.gif?raw=true)
+
+![Screen1](https://github.com/jeffersonvidal/profile-card/blob/master/screenShots/screen1.PNG?raw=true)
+
+![Screen2](https://github.com/jeffersonvidal/profile-card/blob/master/screenShots/screen2.png?raw=true)
+
+![Screen3](https://github.com/jeffersonvidal/profile-card/blob/master/screenShots/screen3.png?raw=true)
