@@ -17,3 +17,7 @@ Ideal para área de funcionários, nossa equipe ou our team.
 ![Screen2](https://github.com/jeffersonvidal/profile-card/blob/master/screenShots/screen2.png?raw=true)
 
 ![Screen3](https://github.com/jeffersonvidal/profile-card/blob/master/screenShots/screen3.png?raw=true)
+
+---
+
+Made with ♥ by [Jefferson Vidal](https://github.com/jeffersonvidal)
